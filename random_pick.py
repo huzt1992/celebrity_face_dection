@@ -4,7 +4,7 @@ import shutil
 
 src_folder = r'D:\Humans'
 dst_folder = r'D:\MCIT\581\extra project\val\ppl'
-num_files = 150
+num_files = 700
 
 # Get a list of all the files in the source folder
 files = os.listdir(src_folder)
