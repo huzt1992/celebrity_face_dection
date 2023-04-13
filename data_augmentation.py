@@ -4,10 +4,10 @@ import numpy as np
 from PIL import Image, ImageEnhance, ImageOps
 
 # Define the folder containing the input images
-input_folder = r"D:\MCIT\581\extra project\val\brad_pitt"
+input_folder = r"D:\MCIT\581\extra project\train\New folder\output_frames"
 
 # Define the folder to export the augmented images to
-output_folder = r"C:\Users\Huzt\Downloads\New folder"
+output_folder = r"D:\MCIT\581\extra project\train\New folder\New folder"
 
 # Define the number of augmented images to generate per input image
 num_augmentations = 2
